@@ -8,7 +8,7 @@ Todo app
 
 ![](https://img.shields.io/badge/Rishu%20srivastava-BCA-orange)
 
-# **Todo app** [Live Link]
+# **Todo app** [Live Link](https://app.netlify.com/sites/todoappjs-1/settings/general)
  >- Skills gained in this project
  >- Learned about dom manipulation
  >- learned about how to remove and add element
